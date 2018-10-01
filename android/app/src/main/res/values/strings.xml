@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">facesharefinal</string>
+    <string name="facebook_app_id">1866030490098870</string>
+    <string name="title_activity_share">MyShareEx</string>
+</resources>
